@@ -1,2 +1,5 @@
-# byteridge-test-simple-login-ui-react-redux
-byteridge-test-simple-login-ui-react-redux
+# react-redux-registration-login-example
+
+React + Redux - User Registration and Login Tutorial & Example
+
+For documentation and further details go to http://jasonwatmore.com/post/2017/09/16/react-redux-user-registration-and-login-tutorial-example
